@@ -11,12 +11,6 @@ import pandas as pd
 import time
 import json
 
-## know the general structure of the knowledge base - done
-# save names of articles to avoid duplicates 
-## access the webpage and get all the text - done
-# add links to the end of the scraped text together with their description
-## press "load more" button to get more articles - done
-
 SOURCE = 'https://kozminski.my.site.com/s/knowledge-base?language=en_US'
 DRIVER = webdriver.Firefox()
 
