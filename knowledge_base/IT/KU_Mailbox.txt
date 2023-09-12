@@ -1,0 +1,84 @@
+  1. [IT](/s/topic/0TO2o000000ADxzGAG/it "IT")
+
+# KU Mailbox
+
+On 15 May 2012, the existing mailbox offered to students and employees of
+Kozminski University was replaced by a Microsoft solution. From that day on,
+as part of the access to Office 365 service, each student and employee of KU
+could use a completely free e-mail account with @kozminski.edu.pl domain and
+50 GB of storage, and access to OneDrive with 1 TB of storage. The account is
+also active after graduation.  
+  
+• LOGGING IN  
+There are several ways to access your e-mail account:  
+1\. Through the Outlook Web App application, which is linked to the home page
+of Kozminski University
+
+  
+  
+![](/servlet/rtaImage?eid=ka02o000000Ef6G&feoid=00N2o000008tiW7&refid=0EM2o000000whso)  
+  
+  
+
+or by typing the address directly into the address bar of your web browser:  
+mail.kozminski.edu.pl  
+In order to log in to your mailbox through the website, the fields in the form
+must be filled in as follows:  
+• USERNAME:
+[student_ID_number@kozminski.edu.pl](mailto:student_ID_number@kozminski.edu.pl)
+or [course_participant_number@kozminski.edu.pl]()  
+• PASSWORD: The password you use to log in to all other IT systems at
+Kozminski University.
+
+  
+  
+![](/servlet/rtaImage?eid=ka02o000000Ef6G&feoid=00N2o000008tiW7&refid=0EM2o000000whst)  
+
+2\. Using the Outlook mail client. This client is included in the free Office
+suite, which you receive during your studies (more information about the free
+Office suite can be found here).  
+3\. Using any other mail client (e.g. Mozilla Thunderbird, Opera Mail, the
+Mail application on Apple computers and devices, etc.) after setting it up as
+necessary.  
+
+MAIL CLIENT CONFIGURATION  
+(for methods other than Microsoft Exchange)  
+To set up the access to your KU mailbox via a mail client, the following data
+will be required:  
+  
+POP3  
+Server address:  
+outlook.office365.com  
+Port: 995  
+Encryption type: SSL  
+IMAP  
+Server address:  
+outlook.office365.com  
+Port: 993  
+Encryption type: SSL  
+SMTP  
+Server address:  
+smtp.office365.com  
+Port: 587  
+Encryption type: TLS
+
+• E-MAIL ADDRESSES AND ALIASES  
+The default format of your e-mail account is as follows:  
+[student_ID_number@kozminski.edu.pl](mailto:student_ID_number@kozminski.edu.pl)  
+[course_participant_number@kozminski.edu.pl]()  
+Using the IT Department Panel, you can assign a custom e-mail address to your
+account with the domain @kozminski.edu.pl, e.g.:  
+leo.kozminski@kozminski.edu.pl  
+Please note, however, that the mail alias will only allow you to address your
+e-mail messages. It will not let you log in to your e-mail account.
+Additionally, all emails that you will send even after receiving a message to
+the alias will be sent from the default address for your account.  
+It is suggested that you log in to your e-mail account for the first time
+through Outlook Web App. This will let you to verify if your account has been
+set up correctly. In case of an error message or problems with logging in,
+please use the FAQ section or contact the IT Department.
+
+You’re most welcome to contact us if you have any questions.  
+Tel. no.: (22) 519 21 45  
+E-mail: [help@kozminski.edu.pl](mailto:help@kozminski.edu.pl)
+

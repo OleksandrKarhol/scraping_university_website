@@ -1,0 +1,30 @@
+  1. [IT](/s/topic/0TO2o000000ADxzGAG/it "IT")
+
+# Instructions and manuals
+
+\- Office 365 ProPlus  
+[Office 365 ProPlus installation
+procedure](https://pliki.kozminski.edu.pl/it/baza_wiedzy/eng/Office365eng.pdf)  
+  
+\- PS IMAGO (IBM SPSS Statistics)  
+[Manual describing the installation process of PS IMAGO (IBM SPSS
+Statistics)](https://pliki.kozminski.edu.pl/it/baza_wiedzy/eng/SPSSeng.pdf)  
+  
+\- Statistica  
+[Instruction describing the Statistica installation
+process](https://pliki.kozminski.edu.pl/it/baza_wiedzy/eng/Statisticaeng.pdf)  
+  
+Proxy (databases)  
+[Instructions for adjusting proxy in Mozilla
+Firefox](https://pliki.kozminski.edu.pl/it/baza_wiedzy/eng/ProxyENG.pdf)  
+  
+WiFi  
+\- Cell phones  
+[ANDROID](https://pliki.kozminski.edu.pl/it/baza_wiedzy/eng/WIFI_ANDROID_ENG.pdf)  
+[iOS](https://pliki.kozminski.edu.pl/it/baza_wiedzy/eng/WIFI_IPHONE_ENG.pdf)  
+  
+\- Computers  
+[WINDOWS
+10](https://pliki.kozminski.edu.pl/it/baza_wiedzy/eng/WIFI_win10_eng.pdf)  
+[MacBook](https://pliki.kozminski.edu.pl/it/baza_wiedzy/eng/WIFI_MACOS_ENG.pdf)
+

@@ -1,0 +1,86 @@
+  1. [IT](/s/topic/0TO2o000000ADxzGAG/it "IT")
+
+# ap.mobilna for students
+
+![app
+mobilna.png](/servlet/rtaImage?eid=ka02o000000El65&feoid=00N2o000008tiW7&refid=0EM2o000003enae)  
+
+Wersja w języku polskim dostępna jest
+[tutaj](https://mykozminski.force.com/s/article/ap-mobilna-dla-
+student%C3%B3w?language=pl).  
+
+**My Studies** Clicking and holding the “My Studies” the app will display a
+panel to change between study programs. This functionality is active only for
+students studying in more than one field of study. My studies contain basic
+information about the study path also traditionally available at the Virtual
+University:  
+
+**The schedule** shows current timetable, details are updated in real-time, a
+reminder can be set for future classes. Touching the field with the name of
+the activity opens its details as a pop-up to the full screen. It can be
+closed by dragging it down with one finger or clicking on the cross in the
+upper right corner.  
+
+**Grades** from the current and previous semesters, the tile presents final
+and partial grades. The grades must be entered into the KU's dean's office
+system to be displayed. Final and partial grades for one subject are
+aggregated under rolled beams.  
+
+**Exams** During the exam session, the tile displays the list of exams -
+"Upcoming Credits" and "Past Credits". The first one presents what exams await
+the student in the session. The application displays the next exams as the
+highest on the list. Based on grades, app displays a progress bar at the top
+of the screen (progress of passes). The tile is visible at all times.  
+
+**Scholarships** is divided into two parts - "Scholarship Applications" and
+"Grants Awarded". The detailed view includes the rationale for the decision
+provided by the person responsible for examining the application. All
+information about each scholarship is aggregated under a drop-down bar with
+the name of the scholarship. In the "Scholarship Applications" tab, the
+student can see what applications have been submitted. The tile is visible to
+all users of the application.  
+
+**Payments** are divided into two parts, "Your receivables" and "Your
+deposits". Your receivables display financial data and details, i.e. current
+balance, receivables, and interest, as well as the account number and the
+distribution of payments in installments in individual semesters. In the Your
+payments section, you can see the details of the payments made, i.e. the
+amount and date of posting.  
+
+**My lecturers** present a list of lecturers conducting classes in the current
+semester and a preview of the list of lecturers from previous ones. From here,
+the user can check when the lecturer has consultations, send a message to the
+selected lecturer using the e-mail program from a mobile device.  
+
+In the **University** section, the user has access to information about
+Kozminski University, this section is available without logging into the
+application.  
+
+The tile **About the University** presents Kozminski University, history,
+accreditations, certificates, rankings, information about the campus, and much
+other interesting information.  
+
+The **Employees** tile allows you to search by entering the name and surname
+of a Kozminski University employee. is divided into two parts Lecturers and
+Administrative staff.  
+
+**Recruitment** tile, the user can fill in the online application form for the
+selected studies, course, or training.  
+
+The **Offer** tile presents the educational offer of Kozminski University.  
+
+**Contact** provides information on contact details to individual
+organizational units for students, lecturers, candidates for studies,
+graduates, people interested in cooperation with the Kozminski University.  
+
+The **Academic year organization** tile displays the academic year schedule,
+holiday breaks, exam session dates for particular groups of fields of study as
+well as levels and types  
+
+The **News** section presents news and events from the life of Kozminski
+University.  
+
+The **Messages** section allows you to view the messages and announcements
+sent to the user using the Virtual University system. Messages that are
+important to the user can be marked as Favorites.
+

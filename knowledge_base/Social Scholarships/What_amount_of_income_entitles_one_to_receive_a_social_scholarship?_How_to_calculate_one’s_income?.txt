@@ -1,0 +1,121 @@
+  1. [Scholarships And Credits](/s/topic/0TO2o000000ADxxGAG/scholarships-and-credits "Scholarships And Credits")
+
+# What amount of income entitles one to receive a social scholarship? How to
+calculate one’s income?
+
+The amount of an undergraduate/graduate/doctoral student’s monthly per capita
+family income making them eligible to apply for a maintenance grant in the
+academic year 2022/2023 may not exceed PLN 1,294.40. This means income after
+deductions - nett income, calculated for the year 2021 (considering any
+potential later changes in one’s financial situation, meaning so-called[
+](https://mykozminski.force.com/s/article/Co-to-jest-doch%C3%B3d-utracony-i-
+jak-wp%C5%82ywa-na-obliczanie-dochodu?language=en%22%20%5Ct%20%22_blank)[“lost
+income” ](https://mykozminski.force.com/s/article/Co-to-jest-
+doch%C3%B3d-utracony-i-jak-wp%C5%82ywa-na-obliczanie-dochodu?language=en_US)
+\- lost income is not included in the calculations, and [“earned income”
+](https://mykozminski.force.com/s/article/Co-to-jest-doch%C3%B3d-uzyskany-i-
+jak-wp%C5%82ywa-na-obliczanie-dochodu?language=en_US) \- earned income needs
+to be added to the remaining income and documented in item 4 of Appendix no. 2
+to the Regulations on the benefits granted to students of KU in the academic
+year 2022/2023 (Student Support Regulations 2022/2023).  
+  
+ **First, it’s necessary to calculate the monthly (nett) income** of each
+family member, and then total the amounts of income of all members of the
+student’s family and divide the result by the number of family members – this
+way, we calculate the monthly per capita family income, the amount of which
+may not exceed PLN 1,294.40.  
+  
+All income – meaning:  
+ **1\. revenues subject to taxation on principles defined in Article 27** (tax
+based on a tax scale), **Article 30b** (tax on income earned from e.g. gainful
+disposal of securities or derivative instruments), **Article 30c** (flat tax
+on income earned from non-agricultural business activity), **Article 30e**
+(tax on income earned from sale of real estate), and **Article 30f** (tax on
+income earned by a controlled foreign company) of the Act of 26 July 1991 on
+personal income tax (Journal of Laws of the Republic of Poland of 2019, item
+1387, as amended), less tax deductible expenses, the due personal income tax,
+the social insurance contributions not classified as tax deductible expenses,
+and health insurance contributions; the income shall be calculated on one’s
+own on the basis of the relevant documents; the income of this type (and its
+sources) shall be included in the statement of income - in item 1 of Appendix
+2 to the said Regulations.  
+  
+These sources include remuneration earned under contracts of employment,
+specific work contracts, contracts of mandate, disability pension,
+unemployment benefit, income earned from business activity subject to the
+general principles of taxation or flat tax, etc.  
+  
+ **2\. each family member’s income subject to lump-sum tax from receipts or
+constant amount tax**  
+An income subject to lump-sum income tax from receipts is a monthly income in
+the amount of 1/12 of the income announced annually by way of a notice of the
+minister in charge of family affairs in the “Monitor Polski” official gazette
+of the Republic of Poland by 1 August of each year.  
+This includes income earned from business activity subject to lump-sum tax
+from receipts, rental income subject to lump-sum tax from receipts, etc.; the
+income of this type (and its sources) shall be included in the statement of
+income - in item 2 of Appendix 2 to the said Regulations.  
+  
+ **3.** **each family member’s income not subject to taxation**  
+The types of non-taxable income that need to be taken into consideration when
+calculating the income for the purpose of application for maintenance grant
+include e.g. (the list below is non-exhaustive):  
+\- maintenance for children,  
+\- benefits received from maintenance fund,  
+\- income from agricultural holding,  
+\- some grants/scholarships,  
+\- allowance granted to persons performing civic and community roles,  
+\- income earned abroad,  
+\- child tax credit returned by the Tax Office in an amount not covered by the
+amount of tax (meaning an amount received pursuant to Article 27 f sections
+8-10 of the Act of 26 July 1991 on personal income tax)  
+\- parental benefits,  
+\- remuneration of persons aged under 26, exempt from taxation.  
+The income of this type (and its sources) shall be included in the statement
+of income - in item 3 of Appendix 2 to the said Regulations.  
+The list does not include income types such as e.g. family allowance or child-
+support benefit (commonly referred to as “500+”) - these are income types that
+SHOULD NOT be considered when calculating one’s income for the purpose of
+applying for maintenance grant (but it’s advisable to document them in the
+explanation statement if the applying student has reported an income below PLN
+600 per family member and is obliged to submit a certificate on their and
+their family’s income and material circumstances, issued by the relevant
+social welfare unit, but has not yet submitted such a certificate).  
+  
+For the purpose of applying for maintenance grant, when calculating the
+monthly income of a given person, their total annual income for 2021 needs to
+be divided by 12 months to arrive at the average monthly income; EXCEPTIONS
+include situations of “lost income” and “earned income”.  
+Speaking in most general terms, “lost income” and “earned income” are used to
+adjust and update the calculations made on the basis of the year 2021. If
+there occur any changes regarding the income of an applicant’s family members
+compared to the year 2021 when the applicant submits their application (no
+source of income which a given person had in 2021, meaning “lost income”, or
+the appearance of a new source of income which a given person did not have in
+2021, meaning “earned income”) - the calculations made on the basis of the
+year 2021 need to be verified accordingly.  
+If there has been a case of lost income in 2021 or after 2021, when
+determining the amount of income of a given person for 2021, lost income
+should not be included in the calculations: the amount earned in 2021 from the
+source of the lost income in question is not taken into consideration (NOTICE:
+not every type of income may be considered as lost! - see: definition of lost
+income).  
+If there has been a case of earned income after 2021, it is necessary to add
+the amount of the income earned in the month following the month in which the
+income was earned to the amount of the monthly income of a given person
+(NOTICE: not every type of income may be considered as earned! - see:
+definition of earned income) - e.g. if a contract of employment was concluded
+on 1 July 2022, the amount of “earned income” is the amount of the nett
+remuneration for August 2022.  
+The point of reference is always the moment of submission of the application
+(until the moment of obtaining the decision). This means that e.g. if a family
+member gained an income from February 2022 to August 2022 from a source they
+did not have in 2021, it is not a case of “earned income” because this source
+of income does not exist anymore. Such an income will not be considered in the
+calculations at all.  
+  
+ **Until the committee analyses an application and issues a relevant decision,
+the applying undergraduate/graduate/doctoral student is obliged to report all
+and any changes in the financial situation of their family (“lost income” and
+“earned income”).**
+

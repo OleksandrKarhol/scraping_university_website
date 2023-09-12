@@ -1,0 +1,204 @@
+  1. [IT](/s/topic/0TO2o000000ADxzGAG/it "IT")
+
+# Software
+
+As a result of agreements signed by Kozminski University with IT companies,
+which offer their software to be used by universities for educational
+purposes, KU students are given the opportunity to use the following software
+completely free of charge during their studies. The scope of its use and
+making it available is subject to the rules defined by the company providing
+it.  
+  
+The following software is currently available:  
+  
+ **Office 365 ProPlus**
+
+Under the agreement signed by Kozminski University with Microsoft, students of
+KU gain access to the Office 365 ProPlus software. The system makes it
+possible to use all Office 365 ProPlus applications free of charge and to
+install the suite on up to 5 devices. Access to the software is integrated
+with the Kozminski University e-mail service.  
+The license includes, among others:
+
+  
+![](/servlet/rtaImage?eid=ka02o000000EgRe&feoid=00N2o000008tiW7&refid=0EM2o00000226Xc)  
+  
+
+The software is available only in a downloadable version after logging in to
+the e-mail service available at
+[http://poczta.kozminski.edu.pl/](http://poczta.kozminski.edu.pl/)  
+You can download a detailed installation procedure for Office 365 ProPlus in
+the form of a PDF file  
+NOTICE! Before installing Office 365 ProPlus, please make sure that the device
+on which the software will be installed meets the following requirements:
+
+**PC**  
+  
+---  
+  
+**Operating system**
+
+|
+
+  * Windows 8
+  * Windows 8.1
+  * Windows 10
+
+  
+  
+**CPU**
+
+|
+
+1 GHz or faster  
+  
+**Memory**
+
+|
+
+1 GB RAM or more  
+  
+**Hard drive space**
+
+|
+
+3 GB  
+  
+**Apple computers**  
+  
+**Operating system**
+
+|
+
+Mac OS X v10.6 or newer  
+  
+**Memory**
+
+|
+
+1 GB RAM or more  
+  
+**Hard drive space**
+
+|
+
+2.5 GB  
+  
+  
+KU’s IT Department does not offer its support in the installation of Office
+software. In case of any problems with the performance and running of the
+suite, please contact KU’s IT Department or Microsoft’s Technical Support.  
+  
+ **Microsoft Azure**  
+Among the resources of the platform you can find both operating systems and
+some other tools. This software can be installed and used on private computers
+for educational (non-profit) purposes. The software can be accessed after
+logging in to the Microsoft Azure website. You have to use the same data that
+you use to log in to the e-mail service, Virtual University, or WiFi networks.
+
+The license includes, among others:  
+
+**Operating systems**
+
+|
+
+**Programmes**  
+  
+---|---  
+  
+  * Microsoft Windows 10
+
+|
+
+  * Microsoft Visio 2019
+  * Microsoft Project 2019
+  * Microsoft Access 2019
+  * Visual Studio
+  * and more
+
+  
+  
+  
+  
+  
+The software is available only as a downloadable version, and can be
+downloaded from the [Microsoft Azure
+website](https://software.kozminski.edu.pl/) in the form of ISO files. Those
+who want to use this software need to have a computer with a DVD burner and
+fast Internet connection (the download time can be up to several hours).  
+• [Framework software user license
+agreement](https://azureforeducation.microsoft.com/pl-
+pl/About/LicenseAgreement)  
+• Instructions on how to download the software from the Microsoft Azure
+platform  
+  
+NOTICE! KU’s IT Department does not offer its support in the installation of
+Microsoft software. In case of any problems with the performance and running
+of the software, please contact Microsoft’s Technical Support.  
+  
+  
+ **PS IMAGO (IBM SPSS STATISTICS)**  
+In the academic year 2008/2009 Kozminski University joined a programme of
+collaboration with SPSS Polska within the framework of the ARIADNA Programme.
+Its aim is to support units engaged in scientific, research or teaching
+activity with the use of SPSS software for statistical processing of
+quantitative research results.  
+More information about the ARIADNA programme can be found at:
+www.ariadna.edu.pl.  
+The PS IMAGO software (IBM SPSS Statistics) can be accessed by downloading it
+through the [IT Department Panel](http://www2.kozminski.edu.pl/it/panel/)
+using the same login data that is used to log in to the Virtual University
+system. After logging in, go to the ‘Application keys’ section and choose the
+‘Download keys’ option. A list will appear. Select the appropriate language
+version of the SPSS programme and choose the option ‘Details and keys’ to the
+right of the programme name. Then choose ‘Download next key’ and download the
+software by choosing the version for your operating system.
+
+According to the license rules, users of IBM SPPS software under the ARIADNA
+programme should promote the software by including information about the use
+of IBM SPSS software for analysis in scientific publications (this applies
+also to bachelor’s and master’s theses).  
+  
+ **STATISTICA**  
+Since 29 September 2008, in accordance with the agreement concluded by
+Kozminski University and StatSoft, the Statistica software can be used by all
+KU students after filling in the User Registration Card on-line. Each
+installation of the programme on the computer must be included in the amount
+specified in the Registration Card. Instructions facilitating the installation
+process can be found here.  
+The Statistica software can be accessed by downloading it through the [IT
+Department Panel](http://www2.kozminski.edu.pl/it/panel/) using the same login
+data that is used to log in to the Virtual University system. After logging
+in, go to the ‘Application keys’ section and choose the ‘Download keys’
+option. A list will appear. Select the appropriate language version of the
+Statistica programme and choose the option ‘Details and keys’ to the right of
+the programme name. Then choose ‘Download next key’ and download the software
+by choosing the appropriate language version.  
+  
+Also, make sure to fill in the [User Registration Card (on-
+line)](http://www.statsoft.pl/Site_License/waD7245al.php).  
+  
+!!!NOTICE!!!  
+In the registration form which appears during the installation of the
+programme, you need to enter your university e-mail address
+([student_ID_number@kozminski.edu.pl](mailto:student_ID_number@kozminski.edu.pl))
+in the field with the e-mail address.  
+  
+Each year, at the turn of September and October, Statsoft provides new codes
+extending the validity of the Statistica software. These codes as well as
+codes for the latest version of the programme can be obtained after logging in
+at the following address:  
+[https://www2.kozminski.edu.pl/it/panel/](https://www2.kozminski.edu.pl/it/panel/)  
+The Statistica validity extension codes can only be used until the end of
+October. After this period it will be necessary to reinstall the software with
+new keys.  
+  
+  
+Useful links:  
+[Electronic Statistics
+Textbook](http://www.statsoft.pl/textbook/stathome.html)  
+  
+You’re most welcome to contact us if you have any questions.  
+Tel. no.: (22) 519 21 45  
+E-mail: [help@kozminski.edu.pl](mailto:help@kozminski.edu.pl)
+

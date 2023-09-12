@@ -1,0 +1,57 @@
+  1. [IT](/s/topic/0TO2o000000ADxzGAG/it "IT")
+
+# Mobile app 'ap.mobilna'
+
+![app
+mobilna.png](/servlet/rtaImage?eid=ka02o000000El6T&feoid=00N2o000008tiW7&refid=0EM2o000003enYx)  
+  
+Wersja w języku polskim dostępna jest
+[tutaj](https://mykozminski.force.com/s/article/Aplikacja-
+mobilna?language=pl).
+
+ap.mobilna is an application that facilitates the Kozminski University
+community to access selected information and navigate around the campus. It is
+dedicated to students and teaching staff. We encourage you to read the short
+description of the available functionalities. The application is under
+development and more and more new features will be available over time, the
+current ones will be improved.
+
+**ap.mobilna for all users:**
+
+In the first step, after starting the application, the user is asked to choose
+a university.
+
+  
+**Settings** to this section you can get by using the gear icon in the upper
+left corner.
+
+**My Profile** contains details about the user, such as email, phone number;
+in the case of students' IDs number; in the case of lecturers, the name of the
+department they are assigned. Data can be changed by logging into the Virtual
+University in the browser version.
+
+  
+**Access settings** The user can enable or disable the functions related to
+accessibility: high contrast version and larger font
+
+  
+**Role change** If the user has more than one role in the system (student,
+lecturer) can switch between them. A checkmark appears when the role is
+active, and it is shown on the "Role" bar on the main settings screen.
+
+  
+In the **Language** section, you can select the language of the application,
+the currently available languages ​​are Polish and English.
+
+  
+To see the functionalities of ap.mobilna for the students, click
+[here](https://mykozminski.force.com/s/article/ap-mobilna-dla-
+student%C3%B3w?language=en).  
+
+To see the functionalities of ap.mobilna for the lecturers, click
+[here](https://mykozminski.force.com/s/article/ap-mobilna-dla-
+wyk%C5%82adowc%C3%B3w?language=en).  
+  
+Please, send all requests regarding the operation of the ap.mobilna to
+[help@kozminski.edu.pl](mailto:help@kozminski.edu.pl)
+

@@ -1,0 +1,169 @@
+  1. [IT](/s/topic/0TO2o000000ADxzGAG/it "IT")
+
+# iKozminski
+
+iKozminski is an application designed especially for the community of
+Kozminski University - applicants for admission to the university, students,
+graduates, and employees.  
+  
+It is a source of a lot of useful information. The information includes news,
+events, job offers, and much more. However, its greatest advantage is the
+possibility to use it to manage the course of study as it provides access to
+the most important information for the student: the schedule of classes,
+grades, and course materials.  
+  
+iKozminski is also a useful tool for KU’s faculty members, administrative
+staff, and guests. The application features maps which make it possible to
+find the room you may be looking for on KU’s premises.  
+  
+The application is modifiable. It means that its home screen can be customised
+to your needs. Most features of iKozminski can be added to the home screen,
+where they will appear in the form of widgets. This is very useful because
+some sections offer then additional features. In this case, the schedule of
+classes will display the schedule for the current day, and the library section
+will display the number of books currently borrowed. This will let you to
+adjust the application to what you may need at the moment.  
+  
+Moreover, the application has a notification function, which will inform you
+about new announcements published in the Virtual University system, grades
+added, and changes in the status of any pending decisions.
+
+  
+  
+![](/servlet/rtaImage?eid=ka02o000000Effc&feoid=00N2o000008tiW7&refid=0EM2o000000whtD)![](/servlet/rtaImage?eid=ka02o000000Effc&feoid=00N2o000008tiW7&refid=0EM2o000000whtI)![](/servlet/rtaImage?eid=ka02o000000Effc&feoid=00N2o000008tiW7&refid=0EM2o000000whtN)
+
+The full list of the features of the mobile app can be found below:  
+  
+ **News**  
+Stay up-to-date with all important events in the life of the university. These
+include events concerning our faculty, the university's development, the
+sports achievements of our students, and many more.  
+  
+ **Admissions**  
+This is where you’ll find the most important information about admissions to
+Kozminski University, which will let you start your education here.  
+  
+ **Education offering**  
+Here you will find information about all fields of study, courses, and
+trainings run by Kozminski University.  
+  
+ **Virtual University**  
+The Virtual University module provides access to individual information about
+the course of study, which is available after logging in. You should use the
+same data that you need to log in to the Virtual University system from your
+web browser.  
+o Your studies – all kinds of information concerning the course of your
+studies.  
+o Your data – basic personal data, contact details, and the number of the
+subaccount to which you should pay any amounts due to the university.  
+o Course of study – basic data related directly to the course of study: field
+of study, year, semester, grade average, other.  
+o Course of studies – more detailed information about the course of study
+divided into individual semesters.  
+o Grades – grades obtained in the course of education at KU.  
+o Instructors – a search engine to look up academic teachers. Using the
+surname of a given teacher, you can find their contact details – e-mail
+address, class schedules, and information about their duty hours.  
+o Curriculum – information about courses divided into individual semesters.  
+o Class schedule – information about the schedule of classes. Its view can be
+changed from weekly to monthly. You can also download the schedule and
+integrate it with your system calendar. After downloading the schedule to the
+system calendar, the application will not be able to update any changes made
+in the schedule. It will also not be possible to edit or delete events entered
+in the system calendar from the application. Of course, you will be still able
+to edit or delete events in your system calendar on your own.
+
+o Materials – all class materials added by course instructors. You can
+download them directly to your phone or tablet.  
+o Diplomas – basic information about the theses/dissertations being currently
+written.  
+o Decisions – all decisions issued by the student office (dean’s office).  
+o Enrolment – information about the possibility to enrol for elective
+lectures. Elective lectures cannot be enrolled for through the application. It
+can be done only by logging into the Virtual University system through a web
+browser.  
+o Your financial data – information about the subaccount to which you can pay
+any amounts due to the university.  
+o Announcements – all announcements from the Virtual University system,
+visible after logging into the platform through the website.  
+o Library – the history of borrowed books, the list of books currently
+borrowed, and the due dates to return them.  
+o Year calendar – information about the dates of on-campus sessions, holiday
+and semester breaks, and about the start and end dates of examination
+sessions.  
+ **About the university**  
+This section includes information about Kozminski University: accreditations,
+affiliations, and distinctions granted, as well as achievements in rankings of
+higher education institutions.  
+ **Academic teachers**  
+Here you can find a search engine to look up academic teachers, which, based
+on the surname of the person you are looking for, will let give you
+information about a given faculty member: e-mail address, class hours, and
+duty hours.  
+ **Contact**  
+A useful list of contact persons working at student offices and ‘frontline’
+staff – people whose assistance you may need during your studies at Kozminski
+University.  
+ **Map**  
+If you have trouble finding some lecture room or some other place, the
+specially designed maps will come to your rescue. All you have to do is enter
+the nearest room you are next to and your destination, and the map will show
+you the way to your destination.  
+ **Graduates**  
+This is where you’ll find news for graduates of Kozminski University and
+information on all discounts available to holders of KU Alumni Cards.  
+ **Sport**  
+Sports news and the SportClub schedule featured in one place.
+
+**Facebook**  
+Using this section you can easily ‘like’ Kozminski University’s Facebook
+profile and also check in at KU.  
+ **Settings**  
+Here you can disable notifications, log out of the application, and change the
+colour of the side menu.  
+ **Mailbox**  
+Thanks to this feature, you can log in to your KU mailbox from the
+application.  
+ **Calendar of meetings**  
+A list of all upcoming events taking place at KU.  
+ **Notifications**  
+This is where notifications from the iKozminski platform are displayed.  
+ **Job offers**  
+List of all job offers posted in the Knowledge Base.  
+All posted job offers can be browsed, and if any seems interesting, you can
+apply directly after switching to the browser version of the website.  
+ **Blog**  
+Direct access to a blog run by Kozminski University students:
+www.studentsinwarsaw.com  
+  
+ **Frequently asked questions:**  
+  
+1\. I can’t log in to the application. What should I do?  
+o Make sure if the login details are correct - check both the login and the
+password. Check if you can log in to the Virtual University system on a
+desktop computer.  
+o If it turns out that all data is correct and you are logging in on your
+computer without any problems, please contact the IT Department - room A115  
+2\. I have the impression that some data reaches the application with some
+delay. I have to wait some time before the information from the Virtual
+University system in the computer version appears in the mobile application.  
+o Certain information can be displayed with a delay – this is because of the
+structure of the system, where information entered in our office computer
+system is transferred to the mobile application with a delay of several
+minutes. The delay results from the need to cache data before it is sent to
+mobile applications. This way, we have a chance to catch incorrect information
+before it is sent. The longest normal delay that can occur is 30 minutes.  
+3\. I have a tablet with Windows 8. Can I install iKozminski on it?  
+o Unfortunately, at the moment, the application is not available for computers
+with Windows operating systems. The application is only available on iOS,
+Android, and Windows Phone operating systems.  
+4\. I found an error in the application - what should I do?
+
+The development of the application is a very complicated process and we may
+have overlooked some errors. Please report any problems you have found to the
+IT Department at [help@kozminski.edu.pl](mailto:help@kozminski.edu.pl).  
+  
+You’re most welcome to contact us if you have any questions.  
+Tel. no.: (22) 519 21 45  
+E-mail: [help@kozminski.edu.pl](mailto:help@kozminski.edu.pl)
+

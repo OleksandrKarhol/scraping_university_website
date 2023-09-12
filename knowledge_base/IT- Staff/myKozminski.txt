@@ -1,0 +1,62 @@
+  1. [IT](/s/topic/0TO2o000000ADxzGAG/it "IT")
+
+# myKozminski
+
+ **myKozminski** is a portal created to facilitate the use of university
+information systems. Here you will find your calendar with upcoming events and
+classes, and in the application catalog, you will learn about a dozen systems
+that will facilitate your work and study at Kozminski University.  
+  
+  
+ **Login**  
+You can go through the login process using your university account, Google
+account, or Facebook account. If you log in for the first time using a Google
+or Facebook account, remember to add your university account to gain access to
+functionalities for students such as the My Applications application or
+Virtual University. The account can be connected in the Settings tab using the
+"Join another account" button  
+  
+The first time you log in, you will be asked to register a myKozminski account
+which will be automatically linked to the account you use to log in. After
+registering your account, you can log in using the "Log in with myKozminski
+account" option  
+  
+  
+ **Settings**  
+In the basic settings, you can adjust the appropriate font size, color theme,
+and display language. You can also change the password to myKozminski, but
+remember that it will not change your password to the university account or KU
+mailbox. The last setting that you can adjust to your convenience is a form of
+two-step verification - which is the source of the code to log in to
+myKozminski. We recommend using an authentication application that completely
+eliminates the waiting for an e-mail / SMS code that may be delayed by mailbox
+hosting or poor coverage on the phone.  
+  
+  
+  
+ **Application catalog**  
+In the application catalog, you will find all systems offered by KU. Below we
+present the most important of them.  
+  
+ **Knowledge base** \- here you will find all the necessary information for
+your studies at Kozminski University. Enter the password you are interested in
+in the search engine and find the answer. In case finding something turns out
+to be too difficult, you will also find a contact person who will help you
+find the right information.  
+  
+ **Virtual university** \- information center about your studies at Kozminski
+University. Here you can check your timetable, grades, get contact with
+lecturers and choose additional subjects.  
+  
+ **My Applications** \- an electronic document circulation system that allows
+you to submit all applications and applications in electronic form. Do you
+need a new ID, do you want to create a thesis workflow, or maybe you need to
+submit an application for excusing absence? If so then this application is for
+you.  
+  
+  
+  
+ **My profile**  
+  
+Here you can check your personal data in the myKozminski account.  
+

@@ -1,0 +1,324 @@
+  1. [Library](/s/topic/0TO2o000000ADxsGAG/library "Library")
+
+# What databases can KU access?
+
+The databases labelled to be accessible via a proxy server can be accessed
+using an own computer or another device by following the instructions
+provided: [here](https://mykozminski.force.com/s/article/Chcia%C5%82bym-
+skorzysta%C4%87-z-baz-danych-dost%C4%99pnych-na-stronie-Biblioteki-ALK-Jak-to-
+zrobi%C4%87?language=en)  
+
+Browsing through the contents of several databases simultaneously (e.g. EBSCO,
+HeinOnline, ProQuest, SAGE, ScienceDirect, Springer and Wiley-Blackwell) using
+the MultiSearcg Engine
+([here](https://search.ebscohost.com/login.aspx?authtype=ip,uid&custid=s6865912&groupid=main&profile=eds)).  
+
+Searching for the titles of journals/magazines in several databases
+simultaneously (EBSCO, HeinOnline, ProQuest, SAGE, ScienceDirect, Springer and
+Wiley-Blackwell) is possible using the AtoZ search engine
+([https://search.ebscohost.com/login.aspx?profile=pfi&custid=s6865912&groupid=main&authtype=ip,uid](https://search.ebscohost.com/login.aspx?profile=pfi&custid=s6865912&groupid=main&authtype=ip,uid)).
+
+  
+**LIST OF DATABASES AVAILABLE AT KU:**  
+
+**Base name**
+
+|
+
+**Description**
+
+|
+
+**Availability**  
+  
+---|---|---  
+  
+Academica
+
+|
+
+Digitized publications from resources of Polish National Library.
+
+|
+
+KU Library - workstation in the Main Reading Room.  
+  
+Bloomberg
+
+|
+
+Financial information. NOTE: You can reserve a computer with access to this
+database (after 3:30 p.m.). If you wish to do it - follow these
+[instructions](https://kozminski.sharepoint.com/:b:/s/file-storage-baza-
+wiedzy/Ecse6A_Xq_1JrzY-Jx_By1wB1hKa_DE64uNhbduqIrc25Q?e=QW6s6P).
+
+|
+
+KU - building A, room 24  
+  
+[Cambridge University Press](http://www.cambridge.org/mybooks)
+
+|
+
+Cambridge University publications.
+
+|
+
+KU campus, proxy server  
+  
+[Ebook Central](http://ebookcentral.proquest.com/lib/alk)
+
+|
+
+Monographs from various publishers and in various subjects (before the first
+use, please register by clicking on the inscription "Create Account").
+
+|
+
+KU campus, proxy server  
+  
+[EBSCO](http://search.ebscohost.com/)
+
+|
+
+Journals and books from various publishers and in various subjects.
+
+|
+
+KU campus, proxy server  
+  
+[Emerald](http://www.emeraldinsight.com/)
+
+|
+
+A collection of selected periodicals published by Emerald between 1901 and
+2006.
+
+|
+
+KU campus, proxy server  
+  
+[EMIS](http://site.securities.com/)
+
+|
+
+Economic information concerning Central Europe and articles from various
+newspapers and magazines.
+
+|
+
+KU campus (because of pandemic - until further notice - also via a proxy
+server)  
+  
+[ft.com](https://www.ft.com/)
+
+|
+
+"Financial Times" news. To use this database, you need to register at:
+<http://ww.ft.com/kozminski>.
+
+|
+
+KU campus, proxy server  
+  
+[HeinOnline](http://home.heinonline.org/)
+
+|
+
+Articles from various legal journals and other legal texts.
+
+|
+
+KU campus, proxy server  
+  
+[IBUK Libra](http://libra.ibuk.pl/)
+
+|
+
+Monographs from various publishers and in various subjects.
+
+|
+
+KU campus, proxy server  
+  
+[INFOR Lex](http://inforlex.pl/loginlink/3db69e123eaaee)
+
+|
+
+INFOR publications.
+
+|
+
+KU campus, proxy server  
+  
+[Legalis](http://sip.legalis.pl/)
+
+|
+
+C.H. Beck publications (mainy in law).
+
+|
+
+KU campus, proxy server  
+  
+[Lex
+Akademia](https://borg.wolterskluwer.pl/Auth/ChooseProductForIpAccessForAnonymousUser.ashx?applicationId=SelfService&referer=https%3A%2F%2Fborg.wolterskluwer.pl%2FAuth%2FChooseProductForIpAccess.ashx&_ga=2.204968020.557421776.1548789452-1190951193.1520590904)
+
+|
+
+Wolters Kluwer Polska publications (mainly in law).
+
+|
+
+KU campus, proxy server  
+  
+[Nature](http://www.nature.com/nature)
+
+|
+
+Electronic version of "Nature" journal. Issues from 2010-2022.
+
+|
+
+KU campus, proxy server  
+  
+[ProQuest](http://search.proquest.com/)  
+_Access to the base in 2023 has been supported by the Polish National Agency
+for Academic Exchange under the STER programme_  
+![NAWA en
+logo](/servlet/rtaImage?eid=ka067000000J7oO&feoid=00N2o000008tiW7&refid=0EM67000005kOvn)
+
+|
+
+Journals from various publishers and in various fields.
+
+|
+
+KU campus, proxy server  
+  
+Puls Biznesu| Online version of popular Polish business journal. Available
+(for KU staff and students only) after registering at:
+<https://pb.pl/kozminski>| For KU staff and students – no limits  
+Rzeczpospolita| Electronic version of one of the most opinion-forming Polish
+dailies. To gain access, you have to register your account on the platform at
+<https://partner.rp.pl/alk>, providing your e-mail address in the KU domain|
+For KU staff and students – no limits  
+  
+[SAGE](http://journals.sagepub.com)
+
+|
+
+Journals published by SAGE.
+
+|
+
+KU campus, proxy server  
+  
+[Science Online](http://www.sciencemag.org/)
+
+|
+
+Electronic version of "Science" journal. Available until 31st March 2023.
+
+|
+
+KU campus, proxy server  
+  
+[ScienceDirect](http://www.sciencedirect.com/)
+
+|
+
+Journals published by Elsevier.
+
+|
+
+KU campus, proxy server  
+  
+[Scopus](http://www.scopus.com/)
+
+|
+
+Abstracts and citations from scientific journals and other scientific
+publications.
+
+|
+
+KU campus, proxy server  
+  
+[Springer](https://link.springer.com/)
+
+|
+
+Springer publications.
+
+|
+
+KU campus, proxy server  
+  
+[Taylor & Francis](http://www.tandfebooks.com/)
+
+|
+
+Monographs published by Taylor & Francis Group.
+
+|
+
+KU campus, proxy server  
+  
+Thomson Reuters Eikon
+
+|
+
+Financial data from around the world.
+
+|
+
+KU library - Main Reading Room (ask a librarian on duty to log into this
+database)  
+  
+[VitalSource](https://resolver.vitalsource.com/)
+
+|
+
+Academic textbooks in various fields.
+
+|
+
+KU campus, proxy server  
+  
+[Web of Science](http://webofknowledge.com/)
+
+|
+
+Information on scientific publications.
+
+|
+
+KU campus, proxy server  
+  
+[Wiley-Blackwell](http://onlinelibrary.wiley.com)
+
+|
+
+Wiley-Blackwell publications.
+
+|
+
+KU campus, proxy server  
+  
+[wynagrodzenia.pl](http://wynagrodzenia.pl)
+
+|
+
+Portal dedicated to remuneration.
+
+|
+
+KU campus (in order to obtain a password, please contact the library).  
+  
+Contact details:
+
+[biblioteka@kozminski.edu.pl](mailto:biblioteka@kozminski.edu.pl)
+
+tel. no. (022) 519 21 42
+

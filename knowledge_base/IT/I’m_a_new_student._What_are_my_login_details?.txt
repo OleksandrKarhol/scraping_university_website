@@ -1,0 +1,19 @@
+  1. [IT](/s/topic/0TO2o000000ADxzGAG/it "IT")
+
+# I’m a new student. What are my login details?
+
+The login details for all IT systems at Kozminski University can be found on
+the student ID card and on the start card. Each student should receive both of
+these cards at the relevant student office. The same details used throughout
+all systems, and the format is as follows:  
+• Login: student_ID_number  
+• University inbox login: student_ID_number@kozminski.edu.pl  
+• Password: client number found on the back of your student ID card (the first
+twelve digits of the featured code)  
+  
+![](/servlet/rtaImage?eid=ka02o000000Ef6E&feoid=00N2o000008tiW7&refid=0EM2o000000whvJ)  
+![](/servlet/rtaImage?eid=ka02o000000Ef6E&feoid=00N2o000008tiW7&refid=0EM2o000000whvO)  
+You’re most welcome to contact us if you have any questions.  
+Tel. no.: (22) 519 21 45  
+E-mail: [help@kozminski.edu.pl](mailto:help@kozminski.edu.pl)
+

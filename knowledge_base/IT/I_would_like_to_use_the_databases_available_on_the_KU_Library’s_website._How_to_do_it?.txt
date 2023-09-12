@@ -1,0 +1,53 @@
+  1. [IT](/s/topic/0TO2o000000ADxzGAG/it "IT")
+
+# I would like to use the databases available on the KU Library’s website. How
+to do it?
+
+The databases can be used:
+
+  * On the premises of the university
+
+In order to use the databases available on the KU Library’s website, you just
+need to connect to the wireless network on your own device, or use a computer
+in one of the computer rooms found on KU’s premises.
+
+  * Outside the premises of the university
+
+To use the databases, you will need to set up a connection with a proxy
+server. Instructions explaining the entire procedure step by step can be found
+below:  
+1\.
+[Computers](https://pliki.kozminski.edu.pl/it/baza_wiedzy/eng/ProxyENG.pdf)  
+2\. [Mobile devices with the Android operating
+system](https://old.kozminski.edu.pl/fileadmin/user_upload/proxy_na_androidzie.pdf)  
+Please note that after setting up the connection with the proxy server, your
+Internet browsing experience will be limited. Only the database pages, the KU
+homepage, and the KU Library website will remain accessible to you.  
+Several of the databases that students may use are available only on the
+premises of the university. Therefore, please make sure that the database you
+wish to use outside the university actually is actually accessible this way.  
+  
+ **I have set up a connection to the proxy server, but I still cannot use the
+databases. Why is that?**  
+Once you have configured your connection to the proxy server, you still need
+to log in to it. You can do this using the same data you use to log in to the
+Virtual University system.  
+We would also like to remind you that after setting up the connection with the
+proxy server, your Internet browsing experience will be limited. Only the KU
+homepage, and the KU Library website, the database pages, the Virtual
+University system, the iKozminski platform, and the Google search engine will
+remain accessible to you. If you try to access any other page, the following
+message will appear:  
+  
+![](/servlet/rtaImage?eid=ka02o000000Eh8T&feoid=00N2o000008tiW7&refid=0EM2o0000021sms)  
+  
+  
+This message does not imply no access to the database or a wrong
+configuration, but means that the connection to the site is blocked by the
+proxy server. Please make sure therefore if you are able to visit the homepage
+of Kozminski University (if it loads correctly).  
+  
+You’re most welcome to contact us if you have any questions.  
+Tel. no.: (22) 519 21 45  
+E-mail: [help@kozminski.edu.pl](mailto:help@kozminski.edu.pl)
+

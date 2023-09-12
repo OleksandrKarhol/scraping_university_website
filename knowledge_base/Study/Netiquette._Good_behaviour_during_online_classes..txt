@@ -1,0 +1,40 @@
+  1. [Study](/s/topic/0TO2o000000ADy4GAG/study "Study")
+  2. [On-line Courses](/s/topic/0TO2o000000ADyRGAW/online-courses "On-line Courses")
+
+# Netiquette. Good behaviour during online classes.
+
+**BEFORE CLASSES:**
+
+  * Check your university mailbox and the Virtual University account **on a regular basis**. This is where you’ll find all the necessary information about the upcoming online classes planned by your teacher(s).
+  *  **Make sure you’re prepared technologically -** install the relevant app and test it - [installing MS Teams](https://www.microsoft.com/pl-pl/microsoft-365/microsoft-teams/download-app). Join the right Team by following a [link or using the code ](https://support.microsoft.com/en-us/office/use-a-link-or-code-to-join-a-team-c957af50-df15-46e3-b5c4-067547b64548?ui=en-us&rs=en-us&ad=us) obtained from the course instructor. If necessary, make yourself familiar with the [Detailed guide to MS Teams.](https://kozminski.sharepoint.com/:b:/s/ProjektwdroeniaSalesforce/EZtiEQ8ac-lHkgYSre4Td2UBz3nfAGAGAlLx141U8IV9Ag?e=CNGZj2)
+  *  **Make yourself comfortable** \- find a convenient place to sit with your computer, have your charger nearby (preferably connected to the computer). You can have something to drink, something to make notes, and other study aids the course instructor may ask you to have.
+  *  **Become familiar with the** ["Rules of attending classes taught with the use of distance education methods and techniques at Kozminski University"](https://kozminski.sharepoint.com/:b:/s/ProjektwdroeniaSalesforce/EexJm9JnntBFt6Ry8dn0ToIBPXUjdNPx--9dHFXfTLGiSw?e=UbWcQn)
+
+**DURING CLASSES:**
+
+  * **Camera** \- when the camera is on, it becomes an ‘open’ communication channel, and communication is a guarantee of the right quality in online education. We encourage you to take part in classes using also webcams. Teachers find it much easier to deliver classes if they see who they talk to. If you do feel uneasy, you can switch your camera off, but bear in mind you may be asked to turn it on at some point during the class.
+  *  **Microphone** \- your **microphone should be muted** during the class. You **unmute** it **only when you want to speak** \- and then you mute it again.
+  *  **Speaking** \- if you wish to say something, you should use the MS Teams’ “raise hand” feature. The instructor will notice your activity and let you speak at the right moment or right away.
+  *  **Recording meetings** \- the course instructor may decide to make your meeting recorded - after communicating their intention to you in advance. It won’t be published anywhere without your consent. It will only be available to your group. **Don’t record the meeting without the instructor’s permission.**
+  *  **Don’t try to take control of the displayed presentation! -** if you happen to take control over the presented content by accident, apologise and notify the instructor of the fact immediately.
+  *  **Breaks** – when there is a break, you may stay disconnect or stay connected. In the latter case, make sure your microphone is muted.
+  *  **Division into groups** \- during classes, you may be assigned to project groups of several persons. The workflow for groups is arranged with the instructor, e.g. via Teams in special sub-teams/rooms or in some other convenient form. If the system gets disconnected for some reason or you don’t return to the group after a finished exercise, “re-join” the meeting.
+  *  **Ask questions!** \- if there’s something you don’t understand, don’t be afraid to ask questions. Teachers want you to understand the content covered. Online classes are still classes after all. :)
+
+**IN COMMUNICATION:**
+
+  * **Stay up-to-date** \- check your mailbox and MS Teams account on a regular basis.
+  *  **Make it easier to identify your problem** \- when sending an e-mail, specify the course and the group (date and time of classes) your case concerns, as well as the mode, the level, and the field of study/programme. When you send your message from your university mailbox, you don’t have to provide your student ID number.
+  *  **Be respectful in communication** \- start your message from “Dear (academic title of the course instructor)” and end it with “Yours sincerely”.
+  *  **Be moderate** \- don’t use several different channels at once (e.g. e-mail, MS Teams chat, etc.) to communicate with one person over a short period of time.
+
+**IF YOU HAVE QUESTIONS OR EXPERIENCE ISSUES:**
+
+If you have any additional questions regarding online classes, please contact
+us at [online@kozminski.edu.pl](mailto:online@kozminski.edu.pl)
+
+If you experience any technical issues using MS Teams, please contact us at:
+[help@kozminski.edu.pl](mailto:help@kozminski.edu.pl)  
+
+*The article was written based on resources compiled and provided by Krzysztof Kuźmicz, PhD, and Anna Pałyga, MSc, within the framework of the programme entitled: “Methodology of Studying in a Digital Education Environment”, and on the basis of “Netykieta” by Bożena Wujec and Lidia Czarkowska, PhD.
+

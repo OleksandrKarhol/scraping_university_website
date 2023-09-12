@@ -1,0 +1,44 @@
+  1. [IT](/s/topic/0TO2o000000ADxzGAG/it "IT")
+
+# How to log in to the Virtual University system?
+
+In order to log in to the Virtual University system, you need to go to
+[wu.kozminski.edu.pl](http://wu.kozminski.edu.pl). In the ID field, enter your
+student ID number (in the case of participants of postgraduate programmes, it
+is the course participant number) and the password to your student account.  
+  
+ **I have trouble logging in to Virtual University.**  
+Problems with access to Virtual University may be caused by several reasons.
+For example, the message “Wrong username or password” may be result from
+entering incorrect log-in data. Please make sure that you enter the correct
+login and password when logging in. Additionally, please remember to enter
+only the student ID/course participant number in the “ID” field, e.g.:  
+\- First- and second-cyclde studies: 12345  
+\- Doctoral studies: 123-sd  
+\- Postgraduate studies: 12345-ckp  
+If you log in for the first time using the starter password from your student
+ID card/course participant card, please remember to rewrite the client number
+from the back of the card without the last digit. The password consists only
+of the first 12 digits of this number. The card is printed with 13 digits. The
+last one is a check sum, which makes it possible to confirm the correctness of
+the client code printed.  
+If you forget your current password, you can set a new one using form no. 2
+found at password.kozminski.edu.pl. To this end, you will need the
+abovementioned client number found on the back of your student ID card/course
+participant card.
+
+During the password change you may also get a message that you don’t have an
+account in the system. In this situation you should contact our IT Department.
+This problem happens when an error occurs during automatic user account
+creation. An IT employee must then create such an account manually.  
+Another problem that you may experience while logging into the Virtual
+University system is your account becoming locked in VU by a student office’s
+employee. Such a situation occurs, for example, when you haven’t paid the
+tuition fees or haven’t paid for a repeated course. Then, the account can only
+be unlocked at the student office.  
+  
+You’re most welcome to contact us if you have any questions.  
+Tel. no.: (22) 519 21 45  
+E-mail:
+[help@kozminski.edu.pl](mailto:help@kozminski.edu.pl%22%20%5Ct%20%22_blank)
+
