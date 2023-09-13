@@ -37,7 +37,6 @@ def load_more():
             loadMoreBtn = DRIVER.find_element(By.XPATH, loadMoreBtn_xpath)
             ActionChains(DRIVER).move_to_element(loadMoreBtn).perform()
             loadMoreBtn.click()
-            #print('\n ********** Load more button pressed ********** \n')
         except: 
             #print('\n ********** Load more button not found ********** \n')
             break
@@ -69,12 +68,9 @@ def get_article_names(soup, subject):
         article_name = article.string
         article_link = article.parent.get('href')
         if article_link != None and article_name != None:
-            #article_link = str(article_link).encode('utf-8').decode('unicode_escape')
-            #article_name = article_name.encode('utf-8').decode('unicode_escape')
             article_link = 'https://kozminski.my.site.com' + article_link + '?language=en_US'
             article_content = get_scraped_text(DRIVER, article_link, subject, article_name.replace(' ', '_'))
             articles[f'{article_name}'] = article_content
-            #print('https://kozminski.my.site.com' + article_link + '?language=en_US')
 
     SUBJECTS[f'{subject}'] = articles    
 
@@ -99,4 +95,4 @@ def save_scraped_text():
     
 if __name__ == '__main__':  
     get_page_structure()
-    #save_scraped_text()
+    save_scraped_text()
